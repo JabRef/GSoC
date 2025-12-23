@@ -1,0 +1,144 @@
+# GSoC @ JabRef e.V.
+
+## Shortcuts
+
+| [GSoC'26 Ideas](ideas-2026.md)                        | [Proposal Template](template.md)                     | [JabRef @ GitHub](https://github.com/JabRef)                   |
+| :---------------------------------------------------: | ---------------------------------------------------- | -------------------------------------------------------------- |
+| [![GSoC logo](assets/gsoc-square.png)](ideas-2026.md) | [![template icon](assets/template.png)](template.md) | [![GitHub icon](assets/github.png)](https://github.com/JabRef) |
+
+## Introduction
+
+[Google Summer of Code](https://google.github.io/gsocguides/student/index) is a *global program focused on bringing more student developers into open source software development*.
+See [GSoC 2026 how it works](https://summerofcode.withgoogle.com/how-it-works)
+
+JabRef e.V. has been a Google Summer of Code 2025 mentoring organization (completed).
+
+## About JabRef
+
+JabRef is a powerful, open-source, cross-platform citation and reference management tool designed to help researchers stay organized and efficient. With JabRef, you can effortlessly collect, organize, and manage your literature sources, giving you more time to focus on what truly matters: your research.
+
+By contributing to JabRef, you contribute to advancing global research. Trusted by over 10,000 researchers worldwide, JabRef plays a vital role in shaping the future of academic and scientific discovery. Your skills and creativity can help push the boundaries of what JabRef can achieve.
+
+Built in Java, JabRef is designed with a strong emphasis on high-quality, modern, and maintainable code. As a contributor, you’ll have the opportunity to enhance your technical skills, deepen your understanding of Java development, and learn best practices in open source collaboration. Whether you're a beginner or an experienced developer, working on JabRef will help you grow as a programmer while making a meaningful impact on a tool that supports researchers around the globe.
+
+## Want to work with us ?
+
+We are passionate about open source and pride ourselves on fostering collaboration within a diverse and inclusive community.
+JabRef is dedicated to providing a welcoming environment for newcomers to open source, making it an ideal starting point for anyone motivated and eager to contribute.
+With [four successful years](https://www.gsocorganizations.dev/organization/jabref-e.v./) of [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) participation, we’ve achieved significant milestones in enhancing JabRef as a user-friendly research tool.
+
+Each project has been a meaningful step toward empowering researchers worldwide.
+As a GSoC participant with JabRef, you'll have the opportunity to grow your technical skills, coding expertise, and open source experience.
+Beyond the invaluable learning, participants receive a stipend from Google and gain access to a global professional network that can open doors for their future.
+
+Based on the project's nature, we seek candidates with an attachment to research.
+You  already crafting a proposal for your PhD thesis? Great! You are in your Masters and currently undecided what you will do after studying? Also interesting for us. Finally, in case you are looking 
+
+See our [ideas](ideas-2026.md) page.
+We would love to hear your own ideas as well.
+
+You may use our [proposal template](template.md) or your own.
+
+In addition to the [Google Summer of Code requirements for a proposal](https://google.github.io/gsocguides/student/writing-a-proposal), proposals for JabRef e.V.;
+
+- must be your own work, and not the work of others, except where the work of others is minimal, duly credited and quoted,
+- must show you are fluent in the programming language needed, and
+- must show your assessment of the competency of your mentors.
+
+Our final decisions will be based on the contents of the final PDF proposal and our interactions with the student.
+
+## How to Contribute
+
+At JabRef we have [opportunities for contributing](https://github.com/JabRef/jabref/blob/main/CONTRIBUTING.md).
+
+## Getting Help
+
+Got a problem? Ask your mentors, ask other students, or ask the JabRef community.
+
+The JabRef community is large, and there are people who are not mentors in the contest.
+Mentors are listed. Everyone else you talk with may be a non-mentor.
+
+Students should keep in mind that some people are non-mentors, and cannot see the contest progress, dates, or information about students.
+When communicating widely, be sure to
+
+- Introduce yourself, the first time,
+- Talk about the task as if you want to do it yourself, not because of the contest,
+- Defend your technical decisions without using the contest as a defense,
+- Non-mentors may give good guidance on technical decisions, but bad guidance on how they think a task is judged.
+  Always consult with your mentors as well.
+
+## Community etiquette
+
+Everyone in the community has to be polite and respectful, and consider everyone else a member of a team and not a competitor.
+
+One should be considerate to everyone else's time.
+We would like to have quality discussions, and not answer questions that are already documented, or available on [DeepWiki](https://deepwiki.com/jabref/jabref) or GitHub.
+This doesn't mean you can't ask questions, but a clueless user and a lazy developer are two different things.
+
+Tell things as you see them.
+Be polite, but don't sugar coat it.
+You don't have to apologize everytime you make a mistake; but avoid repeating it again-
+
+## Right fit
+
+When we start interacting with you during the application period, we have several ways to see if you are the right fit; see how you compare to our perfect student;
+
+- you have a GitHub profile with a history of commits, pull requests, and issues in our project, other projects, or personal projects,
+- you are patient to apply every suggestion during a pull request review,
+- you care about our project beyond the specific task you are working on; you care about changes to documentation, tests, releases, issues, etc,
+- your conversation with us is more than the topic you are working on, but flows naturally to any topic,
+- you are able to have a proper technical discussion; and understands the value of the discussion in itself,
+- you don't just say yes and do something because a mentor says so,
+- you are interested in our community and follow our code of conduct and guidelines,
+- you keep working with our community even if you are not accepted,
+- you have contributed to our project before the application period,
+- you can engage in tight feedback loops around design discussions in proposal drafts,
+- you don't ask for help to write the final proposal,
+- you don't remain ignorant of our software or what our project does,
+- you always write in public, and never write to a mentor in private unless the mentor has asked for that,
+- you work on a project our community needs, regardless of your personal interests,
+- you don't just fix issues, but you also get involved in other people's work.
+
+## Cheating
+
+When we suspect cheating we are to report it to the GSoC coordinator.
+We have a list of behaviors we look for.
+We don't make that list available.
+
+Your proposal, source code and other submissions must be your own work, and not the work of others.
+Except where the work of others is minimal, and duly credited and quoted.
+See [Cheating](https://google.github.io/gsocguides/mentor/selecting-students-and-mentors#cheating-and-proposals-from-outer-space).
+
+> We consider (too) heavy use of AI also as cheating.
+
+Thanks for reading all the way to the end!
+
+## Archives of GSoC Projects
+
+- [GSoC 2025 ‐ Git Support for JabRef](https://github.com/JabRef/jabref/wiki/GSoC-2025-%E2%80%90-Git-Support-for-JabRef)
+- [GSoC 2025 - LSP](https://github.com/JabRef/jabref/wiki/GSoC-2025-%E2%80%90-LSP)
+- [GSoC 2025 - Walkthrough and Welcome Tab](https://github.com/JabRef/jabref/wiki/GSoC-2025-%E2%80%90-Walkthrough-and-Welcome-Tab)
+- [GSoC 2024 ‐ Improved CSL Support (and more LibreOffice‐JabRef integration enhancements)](https://github.com/JabRef/jabref/wiki/GSoC-2024-%E2%80%90-Improved-CSL-Support-(and-more-LibreOffice%E2%80%90JabRef-integration-enhancements))
+- [GSoC 2024 - Lucene Search Backend Integration](https://github.com/JabRef/jabref/wiki/GSoC-2024-%E2%80%90-Lucene-Search-Backend-Integration)
+- [GSoC 2024 ‐ AI‐Powered Summarization and “Interaction” with Academic Papers](https://github.com/JabRef/jabref/wiki/GSoC-2024-%E2%80%90-AI%E2%80%90Powered-Summarization-and-%E2%80%9CInteraction%E2%80%9D-with-Academic-Papers)
+- [GSoC 2022 — Implement a Three Way Merge UI for merging BibTeX entries](https://github.com/JabRef/jabref/wiki/GSoC-2022-%E2%80%94-Implement-a-Three-Way-Merge-UI-for-merging-BibTeX-entries)
+- [GSoC 2021 - Improve PDF support in JabRef](https://github.com/JabRef/jabref/wiki/GSoC-2021---Improve-pdf-support-in-JabRef)
+- [GSoC 2021 - Microsoft Word Integration](https://github.com/JabRef/JabRef-Word-Addin/wiki/GSOC-2021-Microsoft-Word-Integration)
+- [GSoC 2019 - Bidirectional Integration — Paper Writing — LaTeX and JabRef 5.0](https://gist.github.com/davidemdot/ca69c21081964d5d56cc18bae68251e3)
+
+## Useful Links
+
+- [Google Summer of Code main page](https://summerofcode.withgoogle.com/)
+- [How to Prepare for GSoC](https://www.geeksforgeeks.org/blogs/how-to-prepare-for-gsoc-google-summer-of-code/)
+- [Google's guide on making first contact](https://google.github.io/gsocguides/student/making-first-contact)
+- [Elements of a Quality Proposal](https://google.github.io/gsocguides/student/writing-a-proposal#elements-of-a-quality-proposal)
+- [Participating organizations](https://www.gsocorganizations.dev/)
+- [GSoC stipends](https://developers.google.com/open-source/gsoc/help/student-stipends?hl=en): starting at 750 USD, depending on the country.
+- [GSoC timeline](https://developers.google.com/open-source/gsoc/timeline)
+  - latest proposal deadline: TBA
+  - coding until: TBA 18:00 UTC (can be extended under conditions)
+- [awesome-java](https://github.com/akullpp/awesome-java)
+
+## Acknowledgements
+
+This page is heavily inspired by [Sugar Lab's GSoC repository](https://github.com/sugarlabs/GSoC). Thank you for sharing!
