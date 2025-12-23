@@ -42,9 +42,9 @@ In addition to the [Google Summer of Code requirements for a proposal](https://g
 
 - must be your own work,
 - must show that you are familiar with programming in general and know Java,
-- mush show that you also know how to use Git and CLI utils.
+- must show that you also know how to use Git and CLI utils.
 
-We strongly encourage you to contribute to JabRef before GSoC begins or before submitting your proposal. Please have a look at the [`good first issues`](https://github.com/JabRef/jabref/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22) and try to solve one or two of them. This will help you become familiar with our codebase, tooling, and contribution workflow. Prior contributions are an important positive signal during proposal evaluation and help us understand how you approach real-world development tasks within the projec
+We strongly encourage you to contribute to JabRef before GSoC begins or before submitting your proposal. Please take a look at the [`good first issues`](https://github.com/JabRef/jabref/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22) and try to solve one or two of them. This will help you become familiar with our codebase, tooling, and contribution workflow. Prior contributions are an important positive signal during proposal evaluation and help us understand how you approach real-world development tasks within the project.
 
 Our final selection decisions are based on a holistic evaluation that includes:
 
