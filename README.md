@@ -2,9 +2,9 @@
 
 ## Shortcuts
 
-| [GSoC'26 Ideas](ideas-2026.md)                        | [Proposal Template](template.md)                     | [JabRef @ GitHub](https://github.com/JabRef)                   |
+| [GSoC'26 Ideas](ideas-2026.md)                        | [Applicaton](applicaton.md)                     | [JabRef @ GitHub](https://github.com/JabRef)                   |
 | :---------------------------------------------------: | ---------------------------------------------------- | -------------------------------------------------------------- |
-| [![GSoC logo](assets/gsoc-square.png)](ideas-2026.md) | [![template icon](assets/template.png)](template.md) | [![GitHub icon](assets/github.png)](https://github.com/JabRef) |
+| [![GSoC logo](assets/gsoc-square.png)](ideas-2026.md) | [![template icon](assets/template.png)](application.md) | [![GitHub icon](assets/github.png)](https://github.com/JabRef) |
 
 ## Introduction
 
@@ -38,8 +38,6 @@ Even if you are simply exploring research as a possible path, we would be glad t
 
 See our [ideas](ideas-2026.md) page. We would love to hear your own ideas as well!
 
-You may use our [proposal template](template.md) or craft your own.
-
 In addition to the [Google Summer of Code requirements for a proposal](https://google.github.io/gsocguides/student/writing-a-proposal), proposals for JabRef:
 
 - must be your own work,
@@ -53,6 +51,8 @@ Our final selection decisions are based on a holistic evaluation that includes:
 - the quality and clarity of your final PDF proposal,
 - our interactions with you during the application period, reflecting how you communicate, your level of engagement, and your willingness to learn,
 - and your previous contributions to JabRef, as described above.
+
+Start with [application.md](applicaton.md).
 
 ## How to Contribute
 
