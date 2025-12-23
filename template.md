@@ -30,7 +30,7 @@ Most importantly, your proposal should make the impression that you know what yo
 - Your first language
 - Location and Timezone
 - Share links (website(s), ...), if any, of your previous work on open source projects
-- Convince us that you will be a good fit for this project, by sharing links to your contribution to Sugar Labs
+- Convince us that you will be a good fit for this project, by sharing links to your contribution to JabRef
 
 ## Synopsis
 
