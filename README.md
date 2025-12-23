@@ -2,9 +2,9 @@
 
 ## Shortcuts
 
-| [GSoC'26 Ideas](ideas-2026.md)                        | [Proposal Template](template.md)                     | [JabRef @ GitHub](https://github.com/JabRef)                   |
+| [GSoC'26 Ideas](ideas-2026.md)                        | [Applicaton](applicaton.md)                     | [JabRef @ GitHub](https://github.com/JabRef)                   |
 | :---------------------------------------------------: | ---------------------------------------------------- | -------------------------------------------------------------- |
-| [![GSoC logo](assets/gsoc-square.png)](ideas-2026.md) | [![template icon](assets/template.png)](template.md) | [![GitHub icon](assets/github.png)](https://github.com/JabRef) |
+| [![GSoC logo](assets/gsoc-square.png)](ideas-2026.md) | [![template icon](assets/template.png)](application.md) | [![GitHub icon](assets/github.png)](https://github.com/JabRef) |
 
 ## Introduction
 
@@ -37,8 +37,6 @@ You  already crafting a proposal for your PhD thesis? Great! You are in your Mas
 See our [ideas](ideas-2026.md) page.
 We would love to hear your own ideas as well.
 
-You may use our [proposal template](template.md) or your own.
-
 In addition to the [Google Summer of Code requirements for a proposal](https://google.github.io/gsocguides/student/writing-a-proposal), proposals for JabRef:
 
 - must show you are fluent in the programming language needed,
@@ -46,6 +44,8 @@ In addition to the [Google Summer of Code requirements for a proposal](https://g
 - must be your own work, and not the work of others.
 
 Our final decisions will be based on the contents of the final PDF proposal and our interactions with the student.
+
+Start with [application.md](applicaton.md).
 
 ## How to Contribute
 

@@ -11,8 +11,8 @@ Our GSoC 2026 project ideas are listed at <https://github.com/JabRef/GSoC/ideas-
 Interested? Check our [Contribution Guideline](https://github.com/JabRef/jabref/blob/main/CONTRIBUTING.md) and prepare a first improvement.
 In parallel, you can think of the project you would like to work on.
 
-> Finish writing your proposal early so that you can get it reviewed by your mentors and the community, before the deadline.
-> They can give you valuable suggestions on your timeline and project details.
+> Finish writing your proposal early so that there are changes to get feedback before the deadline.
+> You can update your proposal on the GSoC page until the deadline. Do not hesitate to share drafts with the mentoring organization.
 
 Please take contributions before the application phase seriously and as a possibility to get to know the project and the people better.
 
@@ -26,7 +26,7 @@ Most importantly, your proposal should make the impression that you know what yo
 ## Personal Information
 
 - Full Name
-- Email and GitHub Username
+- Email and GitHub username
 - Your first language
 - Location and Timezone
 - Share links (website(s), ...), if any, of your previous work on open source projects
@@ -36,9 +36,9 @@ Most importantly, your proposal should make the impression that you know what yo
 
 Start your proposal with a short summary, designed to convince the reviewer to read the rest of the proposal.
 
-- What are you making ? 
+- What are you making?
 - How will it impact JabRef?
-- What technologies (programming languages, etc.) will you be using ?
+- What technologies (programming languages, etc.) will you be using?
 
 ## Planning
 
@@ -64,15 +64,9 @@ Think of how to test the thing, how the documentation could be like, ... - You c
 ## Benefits to Community
 
 Include your case for a benefit to the organization, not just to yourself.
-Why would Google and your organization be proud to sponsor this work?
+Why would Google and JabRef be proud to sponsor this work?
 How would open source or society as a whole benefit?
 What cool things would be demonstrated?
-
-## Related Work
-
-You should understand and communicate other people’s work that may be related to your own.
-Do your research, and make sure you understand how the project you are proposing fits into the JabRef organization.
-Be sure to explain how the proposed work is different from similar related work.
 
 ## Biographical information
 
