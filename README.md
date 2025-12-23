@@ -11,7 +11,7 @@
 [Google Summer of Code](https://google.github.io/gsocguides/student/index) is a *global program focused on bringing more student developers into open source software development*.
 See [GSoC - how it works](https://summerofcode.withgoogle.com/how-it-works)
 
-JabRef e.V. has been a Google Summer of Code 2025 mentoring organization (completed).
+JabRef e.V. has been a Google Summer of Code 2019, 2021, 2022, 2024, and 2025 mentoring organization (completed).
 
 ## About JabRef
 
@@ -140,4 +140,6 @@ Thanks for reading all the way to the end!
 
 ## Acknowledgements
 
-This page is heavily inspired by [Sugar Lab's GSoC repository](https://github.com/sugarlabs/GSoC). Thank you for sharing!
+This page is heavily inspired by [Sugar Lab's GSoC repository](https://github.com/sugarlabs/GSoC).
+This page includes text by [@quozl](https://github.com/quozl) from a work-in-progress document shared among mentors of several organizations, titled "Tips for finding the right GSoC student for your org".
+Thank you for sharing!
