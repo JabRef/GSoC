@@ -60,22 +60,6 @@ Contribution to JabRef is described in [our contributing guidelines](https://git
 
 Please read this document thoroughly, as it explains our workflows, coding standards, and review process. Following these guidelines helps avoid common mistakes, makes your contributions easier to review, and ensures that your work integrates smoothly with the project. Students who skip this step often face delays or frustration, so investing a bit of time upfront will save you and the mentors considerable effort.
 
-## Getting Help
-
-Got a problem? Ask your mentors, ask other students, or ask the JabRef community.
-
-The JabRef community is large, and there are people who are not mentors in the contest.
-Mentors are listed. Everyone else you talk with may be a non-mentor.
-
-Students should keep in mind that some people are non-mentors, and cannot see the contest progress, dates, or information about students.
-When communicating widely, be sure to
-
-- Introduce yourself, the first time,
-- Talk about the task as if you want to do it yourself, not because of the contest,
-- Defend your technical decisions without using the contest as a defense,
-- Non-mentors may give good guidance on technical decisions, but bad guidance on how they think a task is judged.
-  Always consult with your mentors as well.
-
 ## Community etiquette
 
 Everyone in the community has to be polite and respectful, and consider everyone else a member of a team and not a competitor.
