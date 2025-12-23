@@ -9,7 +9,7 @@
 ## Introduction
 
 [Google Summer of Code](https://google.github.io/gsocguides/student/index) is a *global program focused on bringing more student developers into open source software development*.
-See [GSoC 2026 how it works](https://summerofcode.withgoogle.com/how-it-works)
+See [GSoC - how it works](https://summerofcode.withgoogle.com/how-it-works)
 
 JabRef e.V. has been a Google Summer of Code 2025 mentoring organization (completed).
 
@@ -93,7 +93,6 @@ When we start interacting with you during the application period, we have severa
 - you keep working with our community even if you are not accepted,
 - you have contributed to our project before the application period,
 - you can engage in tight feedback loops around design discussions in proposal drafts,
-- you don't ask for help to write the final proposal,
 - you don't remain ignorant of our software or what our project does,
 - you always write in public, and never write to a mentor in private unless the mentor has asked for that,
 - you work on a project our community needs, regardless of your personal interests,
@@ -109,7 +108,7 @@ Your proposal, source code and other submissions must be your own work, and not 
 Except where the work of others is minimal, and duly credited and quoted.
 See [Cheating](https://google.github.io/gsocguides/mentor/selecting-students-and-mentors#cheating-and-proposals-from-outer-space).
 
-> We consider (too) heavy use of AI also as cheating.
+> We consider mindless usage of AI an attempt to impersonate someone you are not, and classify it as cheating too.
 
 Thanks for reading all the way to the end!
 
