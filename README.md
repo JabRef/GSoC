@@ -39,33 +39,17 @@ We would love to hear your own ideas as well.
 
 You may use our [proposal template](template.md) or your own.
 
-In addition to the [Google Summer of Code requirements for a proposal](https://google.github.io/gsocguides/student/writing-a-proposal), proposals for JabRef e.V.;
+In addition to the [Google Summer of Code requirements for a proposal](https://google.github.io/gsocguides/student/writing-a-proposal), proposals for JabRef:
 
-- must be your own work, and not the work of others, except where the work of others is minimal, duly credited and quoted,
-- must show you are fluent in the programming language needed, and
-- must show your assessment of the competency of your mentors.
+- must show you are fluent in the programming language needed,
+- must show your previous pull request(s) to JabRef, and
+- must be your own work, and not the work of others.
 
 Our final decisions will be based on the contents of the final PDF proposal and our interactions with the student.
 
 ## How to Contribute
 
 At JabRef we have [opportunities for contributing](https://github.com/JabRef/jabref/blob/main/CONTRIBUTING.md).
-
-## Getting Help
-
-Got a problem? Ask your mentors, ask other students, or ask the JabRef community.
-
-The JabRef community is large, and there are people who are not mentors in the contest.
-Mentors are listed. Everyone else you talk with may be a non-mentor.
-
-Students should keep in mind that some people are non-mentors, and cannot see the contest progress, dates, or information about students.
-When communicating widely, be sure to
-
-- Introduce yourself, the first time,
-- Talk about the task as if you want to do it yourself, not because of the contest,
-- Defend your technical decisions without using the contest as a defense,
-- Non-mentors may give good guidance on technical decisions, but bad guidance on how they think a task is judged.
-  Always consult with your mentors as well.
 
 ## Community etiquette
 
@@ -77,13 +61,12 @@ This doesn't mean you can't ask questions, but a clueless user and a lazy develo
 
 Tell things as you see them.
 Be polite, but don't sugar coat it.
-You don't have to apologize everytime you make a mistake; but avoid repeating it again-
+You don't have to apologize everytime you make a mistake; but avoid repeating it again.
 
 ## Right fit
 
 When we start interacting with you during the application period, we have several ways to see if you are the right fit; see how you compare to our perfect student;
 
-- you have a GitHub profile with a history of commits, pull requests, and issues in our project, other projects, or personal projects,
 - you are patient to apply every suggestion during a pull request review,
 - you care about our project beyond the specific task you are working on; you care about changes to documentation, tests, releases, issues, etc,
 - your conversation with us is more than the topic you are working on, but flows naturally to any topic,
