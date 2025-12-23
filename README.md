@@ -40,7 +40,7 @@ See our [ideas](ideas-2026.md) page. We would love to hear your own ideas as wel
 
 You may use our [proposal template](template.md) or craft your own.
 
-In addition to the [Google Summer of Code requirements for a proposal](https://google.github.io/gsocguides/student/writing-a-proposal), proposals for JabRef e.V.;
+In addition to the [Google Summer of Code requirements for a proposal](https://google.github.io/gsocguides/student/writing-a-proposal), proposals for JabRef:
 
 - must be your own work,
 - must show that you are familiar with programming in general and know Java,
@@ -86,7 +86,7 @@ This doesn't mean you can't ask questions, but a clueless user and a lazy develo
 
 Tell things as you see them.
 Be polite, but don't sugar coat it.
-You don't have to apologize everytime you make a mistake; but avoid repeating it again-
+You don't have to apologize everytime you make a mistake; but avoid repeating it again.
 
 ## Right fit
 
