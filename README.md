@@ -8,20 +8,20 @@
 
 ## Introduction
 
-[Google Summer of Code](https://google.github.io/gsocguides/student/index) is a *global program focused on bringing more student developers into open source software development*.
+[Google Summer of Code](https://google.github.io/gsocguides/student/index) is a *global, online program that brings new contributors into open source software organizations*.
 See [GSoC - how it works](https://summerofcode.withgoogle.com/how-it-works)
 
 JabRef e.V. has been a Google Summer of Code 2019, 2021, 2022, 2024, and 2025 mentoring organization (completed).
 
 ## About JabRef
 
-JabRef is a powerful, open-source, cross-platform citation and reference management tool designed to help researchers stay organized and efficient. With JabRef, you can effortlessly collect, organize, and manage your literature sources, giving you more time to focus on what truly matters: your research.
+JabRef is a powerful, open source, cross-platform citation and reference management tool designed to help researchers stay organized and efficient. With JabRef, you can effortlessly collect, organize, and manage your literature sources, giving you more time to focus on what truly matters: your research.
 
 By contributing to JabRef, you contribute to advancing global research. Trusted by over 10,000 researchers worldwide, JabRef plays a vital role in shaping the future of academic and scientific discovery. Your skills and creativity can help push the boundaries of what JabRef can achieve.
 
 Built in Java, JabRef is designed with a strong emphasis on high-quality, modern, and maintainable code. As a contributor, you’ll have the opportunity to enhance your technical skills, deepen your understanding of Java development, and learn best practices in open source collaboration. Whether you're a beginner or an experienced developer, working on JabRef will help you grow as a programmer while making a meaningful impact on a tool that supports researchers around the globe.
 
-## Want to work with us ?
+## Want to work with us?
 
 We are passionate about open source and pride ourselves on fostering collaboration within a diverse and inclusive community.
 JabRef is dedicated to providing a welcoming environment for newcomers to open source, making it an ideal starting point for anyone motivated and eager to contribute.
@@ -31,25 +31,34 @@ Each project has been a meaningful step toward empowering researchers worldwide.
 As a GSoC participant with JabRef, you'll have the opportunity to grow your technical skills, coding expertise, and open source experience.
 Beyond the invaluable learning, participants receive a stipend from Google and gain access to a global professional network that can open doors for their future.
 
-Based on the project's nature, we seek candidates with an attachment to research.
-You  already crafting a proposal for your PhD thesis? Great! You are in your Masters and currently undecided what you will do after studying? Also interesting for us. Finally, in case you are looking 
+Based on the nature of the project, we are looking for candidates with an interest in research.
+Are you already drafting a proposal for your PhD thesis? Great!
+Are you currently pursuing a Master’s degree and still undecided about your next steps? That is also welcome.
+Even if you are simply exploring research as a possible path, we would be glad to hear from you.
 
-See our [ideas](ideas-2026.md) page.
-We would love to hear your own ideas as well.
+See our [ideas](ideas-2026.md) page. We would love to hear your own ideas as well!
 
-You may use our [proposal template](template.md) or your own.
+You may use our [proposal template](template.md) or craft your own.
 
 In addition to the [Google Summer of Code requirements for a proposal](https://google.github.io/gsocguides/student/writing-a-proposal), proposals for JabRef e.V.;
 
-- must be your own work, and not the work of others, except where the work of others is minimal, duly credited and quoted,
-- must show you are fluent in the programming language needed, and
-- must show your assessment of the competency of your mentors.
+- must be your own work,
+- must show that you are familiar with programming in general and know Java,
+- mush show that you also know how to use Git and CLI utils.
 
-Our final decisions will be based on the contents of the final PDF proposal and our interactions with the student.
+We strongly encourage you to contribute to JabRef before GSoC begins or before submitting your proposal. Please have a look at the [`good first issues`](https://github.com/JabRef/jabref/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22) and try to solve one or two of them. This will help you become familiar with our codebase, tooling, and contribution workflow. Prior contributions are an important positive signal during proposal evaluation and help us understand how you approach real-world development tasks within the projec
+
+Our final selection decisions are based on a holistic evaluation that includes:
+
+- the quality and clarity of your final PDF proposal,
+- our interactions with you during the application period, reflecting how you communicate, your level of engagement, and your willingness to learn,
+- and your previous contributions to JabRef, as described above.
 
 ## How to Contribute
 
-At JabRef we have [opportunities for contributing](https://github.com/JabRef/jabref/blob/main/CONTRIBUTING.md).
+Contribution to JabRef is described in [our contributing guidelines](https://github.com/JabRef/jabref/blob/main/CONTRIBUTING.md).
+
+Please read this document thoroughly, as it explains our workflows, coding standards, and review process. Following these guidelines helps avoid common mistakes, makes your contributions easier to review, and ensures that your work integrates smoothly with the project. Students who skip this step often face delays or frustration, so investing a bit of time upfront will save you and the mentors considerable effort.
 
 ## Getting Help
 
@@ -83,7 +92,6 @@ You don't have to apologize everytime you make a mistake; but avoid repeating it
 
 When we start interacting with you during the application period, we have several ways to see if you are the right fit; see how you compare to our perfect student;
 
-- you have a GitHub profile with a history of commits, pull requests, and issues in our project, other projects, or personal projects,
 - you are patient to apply every suggestion during a pull request review,
 - you care about our project beyond the specific task you are working on; you care about changes to documentation, tests, releases, issues, etc,
 - your conversation with us is more than the topic you are working on, but flows naturally to any topic,
