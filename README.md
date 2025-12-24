@@ -51,6 +51,23 @@ Start with [application.md](applicaton.md).
 
 At JabRef we have [opportunities for contributing](https://github.com/JabRef/jabref/blob/main/CONTRIBUTING.md).
 
+## Getting help
+
+We are happy to support you as you contribute to JabRef or work on your GSoC proposal. JabRef has a large and active community, including maintainers, contributors, and other members, who can provide guidance when needed.
+
+To get help effectively, please follow these guidelines:
+
+- Be polite and patient. Community members and mentors have their own schedules and may not respond immediately.
+- Check if your question has been asked before and do some research.
+- Provide enough context and details: explain what you tried, what worked or didn’t, and any relevant information.
+
+Depending on the situation:
+
+- For questions about JabRef in general or about some GSoC project idea: ask publicly, so others can benefit.
+- For questions about your own proposal: ask your possible mentors directly.
+
+Following these practices helps your questions get answered efficiently and keeps the community productive.
+
 ## Community etiquette
 
 Everyone in the community has to be polite and respectful, and consider everyone else a member of a team and not a competitor.
@@ -61,7 +78,13 @@ This doesn't mean you can't ask questions, but a clueless user and a lazy develo
 
 Tell things as you see them.
 Be polite, but don't sugar coat it.
-You don't have to apologize everytime you make a mistake; but avoid repeating it again.
+You don't have to apologize every time you make a mistake; but avoid repeating it again.
+
+**Important Notice about GSoC:**
+
+Before the program officially opens for applications, **please do not ask questions about GSoC timelines, requirements, or selection processes**. These details are not yet finalized, and we cannot provide guidance before the official announcement.
+
+You are, however, encouraged to *contribute to JabRef at any time*: fix issues, propose ideas, participate in discussions, and explore the codebase. It is also fine to discuss features or technical ideas that may later become GSoC projects, but only as **standalone technical discussions** — please do not link them to GSoC planning, proposals, or selection questions.
 
 ## Right fit
 
