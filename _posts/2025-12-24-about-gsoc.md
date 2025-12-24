@@ -1,4 +1,5 @@
 ---
+title: GSoC @ JabRef e.V.
 description: >-
   JabRef's participation in GSoC
 author: jabref
@@ -6,8 +7,6 @@ categories: []
 tags: []
 pin: true
 ---
-
-# GSoC @ JabRef e.V.
 
 ## Shortcuts
 
