@@ -10,9 +10,9 @@ pin: true
 
 ## Shortcuts
 
-|            [GSoC'26 Ideas](ideas-2026.md)             | [Applicaton](applicaton.md)                             | [JabRef @ GitHub](https://github.com/JabRef)                   |
-| :---------------------------------------------------: | ------------------------------------------------------- | -------------------------------------------------------------- |
-| [![GSoC logo](assets/gsoc-square.png)](ideas-2026.md) | [![template icon](assets/template.png)](application.md) | [![GitHub icon](assets/github.png)](https://github.com/JabRef) |
+|                              [GSoC'26 Ideas](ideas-2026.md)                              | [Applicaton](applicaton.md)                                                              | [JabRef @ GitHub](https://github.com/JabRef)                   |
+| :--------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [![GSoC logo](assets/gsoc-square.png)](https://jabref.github.io/GSoC/tags/project-idea/) | [![template icon](assets/template.png)](https://jabref.github.io/GSoC/posts/application) | [![GitHub icon](assets/github.png)](https://github.com/JabRef) |
 
 ## Introduction
 
@@ -29,7 +29,7 @@ By contributing to JabRef, you contribute to advancing global research. Trusted 
 
 Built in Java, JabRef is designed with a strong emphasis on high-quality, modern, and maintainable code. As a contributor, you’ll have the opportunity to enhance your technical skills, deepen your understanding of Java development, and learn best practices in open source collaboration. Whether you're a beginner or an experienced developer, working on JabRef will help you grow as a programmer while making a meaningful impact on a tool that supports researchers around the globe.
 
-## Want to work with us ?
+## Want to work with us?
 
 We are passionate about open source and pride ourselves on fostering collaboration within a diverse and inclusive community.
 JabRef is dedicated to providing a welcoming environment for newcomers to open source, making it an ideal starting point for anyone motivated and eager to contribute.
@@ -42,7 +42,7 @@ Beyond the invaluable learning, participants receive a stipend from Google and g
 Based on the project's nature, we seek candidates with an attachment to research.
 You  already crafting a proposal for your PhD thesis? Great! You are in your Masters and currently undecided what you will do after studying? Also interesting for us. Finally, in case you are looking 
 
-See our [ideas](ideas-2026.md) page.
+See our [ieas collection](https://jabref.github.io/GSoC/tags/project-idea/).
 We would love to hear your own ideas as well.
 
 In addition to the [Google Summer of Code requirements for a proposal](https://google.github.io/gsocguides/student/writing-a-proposal), proposals for JabRef:
@@ -53,7 +53,7 @@ In addition to the [Google Summer of Code requirements for a proposal](https://g
 
 Our final decisions will be based on the contents of the final PDF proposal and our interactions with the student.
 
-Start with [application.md](applicaton.md).
+Start with [the application page](https://jabref.github.io/GSoC/posts/application).
 
 ## How to Contribute
 
