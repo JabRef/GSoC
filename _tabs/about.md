@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+This is the GSoC page for JabRef.
+Find the main JabRef page at <https://www.jabref.org/>.
+
+- Legal disclaimer: <https://blog.jabref.org/impressum/>
+- Datenschutz: <https://blog.jabref.org/datenschutz/>

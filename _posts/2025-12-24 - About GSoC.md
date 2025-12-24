@@ -1,9 +1,18 @@
+---
+description: >-
+  JabRef's participation in GSoC
+author: jabref
+categories: []
+tags: []
+pin: true
+---
+
 # GSoC @ JabRef e.V.
 
 ## Shortcuts
 
-| [GSoC'26 Ideas](ideas-2026.md)                        | [Applicaton](applicaton.md)                     | [JabRef @ GitHub](https://github.com/JabRef)                   |
-| :---------------------------------------------------: | ---------------------------------------------------- | -------------------------------------------------------------- |
+|            [GSoC'26 Ideas](ideas-2026.md)             | [Applicaton](applicaton.md)                             | [JabRef @ GitHub](https://github.com/JabRef)                   |
+| :---------------------------------------------------: | ------------------------------------------------------- | -------------------------------------------------------------- |
 | [![GSoC logo](assets/gsoc-square.png)](ideas-2026.md) | [![template icon](assets/template.png)](application.md) | [![GitHub icon](assets/github.png)](https://github.com/JabRef) |
 
 ## Introduction

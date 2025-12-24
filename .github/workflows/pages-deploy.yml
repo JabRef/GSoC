@@ -3,7 +3,8 @@ on:
   push:
     branches:
       - main
-      - master
+      - use-chirpy
+      - add-content
     paths-ignore:
       - .gitignore
       - README.md
@@ -28,10 +29,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
-          # submodules: true
+          submodules: true
           # If using the 'assets' git submodule from Chirpy Starter, uncomment above
           # (See: https://github.com/cotes2020/chirpy-starter/tree/main/assets)
 
