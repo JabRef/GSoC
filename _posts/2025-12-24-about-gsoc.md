@@ -10,7 +10,7 @@ pin: true
 
 ## Shortcuts
 
-|                              [GSoC'26 Ideas](ideas-2026.md)                              | [Applicaton](applicaton.md)                                                              | [JabRef @ GitHub](https://github.com/JabRef)                   |
+|            [GSoC'26 Ideas](https://jabref.github.io/GSoC/tags/project-idea/)             | [Application](https://jabref.github.io/GSoC/posts/application)                           | [JabRef @ GitHub](https://github.com/JabRef)                   |
 | :--------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [![GSoC logo](assets/gsoc-square.png)](https://jabref.github.io/GSoC/tags/project-idea/) | [![template icon](assets/template.png)](https://jabref.github.io/GSoC/posts/application) | [![GitHub icon](assets/github.png)](https://github.com/JabRef) |
 
@@ -42,7 +42,7 @@ Beyond the invaluable learning, participants receive a stipend from Google and g
 Based on the project's nature, we seek candidates with an attachment to research.
 You  already crafting a proposal for your PhD thesis? Great! You are in your Masters and currently undecided what you will do after studying? Also interesting for us. Finally, in case you are looking 
 
-See our [ieas collection](https://jabref.github.io/GSoC/tags/project-idea/).
+See our [ideas collection](https://jabref.github.io/GSoC/tags/project-idea/).
 We would love to hear your own ideas as well.
 
 In addition to the [Google Summer of Code requirements for a proposal](https://google.github.io/gsocguides/student/writing-a-proposal), proposals for JabRef:
