@@ -60,7 +60,7 @@ Our final selection decisions are based on a holistic evaluation that includes:
 - our interactions with you during the application period, reflecting how you communicate, your level of engagement, and your willingness to learn,
 - and your previous contributions to JabRef, as described above.
 
-Start with [application.md](applicaton.md).
+Start with [our Application for GSoC page](https://jabref.github.io/GSoC/posts/application).
 
 ## How to Contribute
 
