@@ -1,5 +1,5 @@
 ---
-title: {Your own project}
+title: "&lbrace;Your own project&rbrace;"
 author: jabref
 categories: ["gsoc2026"]
 tags: ["project-idea"]
