@@ -54,8 +54,7 @@ At JabRef we have [opportunities for contributing](https://github.com/JabRef/jab
 ## Getting help
 
 We are happy to support you as you contribute to JabRef or work on your GSoC proposal. JabRef has a large and active community, including maintainers, contributors, and other members, who can provide guidance when needed.
-
-To get help effectively, please follow these guidelines:
+Following these practices helps your questions get answered efficiently and keeps the community productive:
 
 - Be polite and patient. Community members and mentors have their own schedules and may not respond immediately.
 - Check if your question has been asked before and do some research.
@@ -65,8 +64,6 @@ Depending on the situation:
 
 - For questions about JabRef in general or about some GSoC project idea: ask publicly, so others can benefit.
 - For questions about your own proposal: ask your possible mentors directly.
-
-Following these practices helps your questions get answered efficiently and keeps the community productive.
 
 ## Community etiquette
 
