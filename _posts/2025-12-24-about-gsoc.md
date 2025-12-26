@@ -132,19 +132,6 @@ See [Cheating](https://google.github.io/gsocguides/mentor/selecting-students-and
 
 Thanks for reading all the way to the end!
 
-## Archives of GSoC Projects
-
-- [GSoC 2025 ‐ Git Support for JabRef](https://github.com/JabRef/jabref/wiki/GSoC-2025-%E2%80%90-Git-Support-for-JabRef)
-- [GSoC 2025 - LSP](https://github.com/JabRef/jabref/wiki/GSoC-2025-%E2%80%90-LSP)
-- [GSoC 2025 - Walkthrough and Welcome Tab](https://github.com/JabRef/jabref/wiki/GSoC-2025-%E2%80%90-Walkthrough-and-Welcome-Tab)
-- [GSoC 2024 ‐ Improved CSL Support (and more LibreOffice‐JabRef integration enhancements)](https://github.com/JabRef/jabref/wiki/GSoC-2024-%E2%80%90-Improved-CSL-Support-(and-more-LibreOffice%E2%80%90JabRef-integration-enhancements))
-- [GSoC 2024 - Lucene Search Backend Integration](https://github.com/JabRef/jabref/wiki/GSoC-2024-%E2%80%90-Lucene-Search-Backend-Integration)
-- [GSoC 2024 ‐ AI‐Powered Summarization and “Interaction” with Academic Papers](https://github.com/JabRef/jabref/wiki/GSoC-2024-%E2%80%90-AI%E2%80%90Powered-Summarization-and-%E2%80%9CInteraction%E2%80%9D-with-Academic-Papers)
-- [GSoC 2022 — Implement a Three Way Merge UI for merging BibTeX entries](https://github.com/JabRef/jabref/wiki/GSoC-2022-%E2%80%94-Implement-a-Three-Way-Merge-UI-for-merging-BibTeX-entries)
-- [GSoC 2021 - Improve PDF support in JabRef](https://github.com/JabRef/jabref/wiki/GSoC-2021---Improve-pdf-support-in-JabRef)
-- [GSoC 2021 - Microsoft Word Integration](https://github.com/JabRef/JabRef-Word-Addin/wiki/GSOC-2021-Microsoft-Word-Integration)
-- [GSoC 2019 - Bidirectional Integration — Paper Writing — LaTeX and JabRef 5.0](https://gist.github.com/davidemdot/ca69c21081964d5d56cc18bae68251e3)
-
 ## Useful Links
 
 - [Google Summer of Code main page](https://summerofcode.withgoogle.com/)
