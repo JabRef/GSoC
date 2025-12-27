@@ -1,4 +1,10 @@
-# Application for GSoC
+---
+title: Application for GSoC
+author: jabref
+categories: ["gsoc2026"]
+tags: [ "process" ]
+pin: true
+---
 
 A good proposal is structured, complete and backed by your code contributions.
 We want you to be honest and realistic while writing your proposal.
