@@ -42,9 +42,9 @@ One can learn about fields of Java known to a little group of developers only. O
 
 **Links:**
 
-- Source of JabKit: https://github.com/JabRef/jabref/tree/main/jabkit
-- Initial PR trying it https://github.com/JabRef/jabref-koppor/pull/693
-- JBang runner for JabKit: https://github.com/JabRef/jabref/tree/main/.jbang#running-jabkit
+- Source of JabKit: <https://github.com/JabRef/jabref/tree/main/jabkit>
+- Initial PR trying it: <https://github.com/JabRef/jabref-koppor/pull/693>
+- JBang runner for JabKit: <https://github.com/JabRef/jabref/tree/main/.jbang#running-jabkit>
 - Way to have a single binary running on multiple platforms: <https://github.com/oracle/graal/pull/12865>
 
 **Project size:**
