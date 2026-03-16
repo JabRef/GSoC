@@ -13,7 +13,7 @@ You must also use [Google's guide to Writing a Proposal](https://google.github.i
 It's good to have a well spaced timeline with doable goals for each week and buffers for each task.
 If you end up not being able to complete what you proposed, then we might consider failing your project.
 
-Our GSoC 2026 project ideas are listed at <https://github.com/JabRef/GSoC/ideas-2026.md>.
+Our GSoC 2026 project ideas are listed at <https://jabref.github.io/GSoC/categories/gsoc2026/>.
 Interested? Check our [Contribution Guideline](https://github.com/JabRef/jabref/blob/main/CONTRIBUTING.md) and prepare a first improvement.
 In parallel, you can think of the project you would like to work on.
 
@@ -22,7 +22,7 @@ In parallel, you can think of the project you would like to work on.
 
 Please take contributions before the application phase seriously and as a possibility to get to know the project and the people better.
 
-For a successful application to JabRef, provide below information and make sure to make yourself familiar with the [Contribution Guidelines](https://github.com/JabRef/jabref/blob/main/CONTRIBUTING.md).
+For a successful application to JabRef, provide the below information and make sure to make yourself familiar with the [Contribution Guidelines](https://github.com/JabRef/jabref/blob/main/CONTRIBUTING.md).
 
 Please ensure that you include everything mentioned at [Elements of a Quality Proposal](https://google.github.io/gsocguides/student/writing-a-proposal#elements-of-a-quality-proposal).
 In the following a higher-level structure is given.
