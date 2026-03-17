@@ -31,7 +31,7 @@ i) Implementation of that format, ii) Implementation of a converter from the "ol
 
 **Project size:**
 
-- **175h (medium)**: If (Project 1 + Project 2)
+- **350h (large)**: If (Project 1 + Project 2)
 
-- **90h (small)**: If Project 2
+- **90h (medium)**: If Project 2
 
