@@ -31,7 +31,7 @@ i) Implementation of that format, ii) Implementation of a converter from the "ol
 
 **Project size:**
 
-- **350h (large)**: If (Project 1 + Project 2)
+- **350h (large)**: If (Project 1 + Project 2 + General JabRef bug fixes hindering stability)
 
 - **175h (medium)**: If Project 2
 
