@@ -69,7 +69,7 @@ Start your proposal with a short summary, designed to convince the reviewer to r
 - How will you report progress between evaluations ?
 - Intended project size
 - Feedback of the community: When will the first thing to try out ready? When will you [call for beta testing](https://discourse.jabref.org/c/beta-testing/11), how long will the beta testing phase be?
-- Discuss your post GSoC plans. Will you continue contributing to Sugar Labs after GSOC ends ?
+- Discuss your post GSoC plans. Will you continue contributing to JabRef after GSOC ends ?
 
 What helps, are initial sketches of the first steps or the solution.
 
