@@ -33,5 +33,5 @@ i) Implementation of that format, ii) Implementation of a converter from the "ol
 
 - **350h (large)**: If (Project 1 + Project 2)
 
-- **90h (medium)**: If Project 2
+- **175h (medium)**: If Project 2
 
