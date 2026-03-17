@@ -27,7 +27,7 @@ i) Implementation of that format, ii) Implementation of a converter from the "ol
 
 **Possible Mentors:**
 
-[@Siedlerchr](https://github.com/Siedlerchr), [@subhramit](https://github.com/subhramit)
+[@Siedlerchr](https://github.com/Siedlerchr), [@subhramit](https://github.com/subhramit), [@ThiloteE](https://github.com/ThiloteE)
 
 **Project size:**
 
